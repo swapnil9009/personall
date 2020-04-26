@@ -148,17 +148,22 @@ a:hover{
 	position:relative;
 	top:1px;
 }
-.icon1{
-  width:100px;
-  height: 100px;
-  position: absolute;
-  left: 100px;
-  top: 100px;
-}
 .icon2{
-  height: 100px;
-  width: 100px;
-  position: absolute;
-  top: 100px;
-  left: 1330px;
+  height: 50px;
+  width: 50px;
+  margin-right: 1000px;
+
+}
+.nav{
+  height: 50px;
+  width: auto;
+  background-color: #d2c6b2;
+
+}
+ul{
+  float: right;
+  list-style-type: none;
+}
+li{
+  display: inline-block;
 }
